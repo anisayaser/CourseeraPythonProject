@@ -1,2 +1,2 @@
 # CourseeraPythonProject
-My submission for the Courseera Python Project. 
+My submission for the Courseera Python Project.
